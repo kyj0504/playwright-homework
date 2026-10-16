@@ -17,3 +17,4 @@ pip install -r requirements.txt
 playwright install chromium
 pytest
 ```
+<img width="855" height="799" alt="과제" src="https://github.com/user-attachments/assets/40f25147-72f2-43d9-b91f-35b470024075" />
